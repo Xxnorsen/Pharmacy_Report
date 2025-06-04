@@ -1,0 +1,1 @@
+The Pharmacy ordering System is a software application that enables users to manage a pharmacy's inventory, place orders, and track sales. This system offers a simple graphical user interface through which users can interact with the functionality. Users of the system can place orders, add, or remove medications, view overall sales information, and adjust the pharmacy's capacity.
